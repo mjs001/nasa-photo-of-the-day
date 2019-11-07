@@ -1,0 +1,11 @@
+hold state:
+overlay-triangle
+external-link-btns
+
+
+props:
+left-and-right-btns
+photo-couresel
+individual-photo-bxs
+
+
