@@ -48,7 +48,7 @@ function CharCard(props) {
         <h2>{props.name}</h2>
         <ContentDiv>
           <div>
-            <p>HEIGHT: {props.title}</p>
+            <p>TITLE: {props.title}</p>
             <h3>COPYRIGHT: {props.copyright}</h3>
             <img src={`${props.url}`}></img>
             <p>DATE: {props.date}</p>
